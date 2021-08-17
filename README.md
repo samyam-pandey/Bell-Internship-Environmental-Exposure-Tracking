@@ -1,0 +1,2 @@
+# Bell-Internship-Environmental-Exposure-Tracking
+Build an algorithm that will be able to detect what type of climate classification the aircraft is at, given the aircraft location and time.  With the climate classification, a second algorithm can calculate possible erosion and corrosion factors the aircraft may have been exposed to.  This will help notify the end user of potential maintenance issues prior to failure. This level of awareness saves the customer time and money.
